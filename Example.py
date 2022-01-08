@@ -1,2 +1,2 @@
-s = input = ("metin gir: ")
+s = input("metin gir: ")
 print(f"{s} merhaba")
